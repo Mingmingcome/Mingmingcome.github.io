@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mingmingcome.github.io/"/>
-  <updated>2016-09-17T16:01:58.400Z</updated>
+  <updated>2016-09-18T11:36:27.922Z</updated>
   <id>https://mingmingcome.github.io/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="https://mingmingcome.github.io/2016/09/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>https://mingmingcome.github.io/2016/09/17/第一篇博客/</id>
     <published>2016-09-17T13:27:04.000Z</published>
-    <updated>2016-09-17T16:01:58.400Z</updated>
+    <updated>2016-09-18T11:36:27.922Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="我终于把你弄出来了"><a href="#我终于把你弄出来了" class="headerlink" title="我终于把你弄出来了"></a>我终于把你弄出来了</h3><p>从昨天开始，我不知道是不是头脑发热，一时兴起，心血来潮，（成语够多了吧），想着在github上搭建博客。光说不练假把式，我不但是一时兴起，还是一头雾水，我找度娘，找谷歌。<br>第一步，在github上创建userName.github.io这个仓库，然后度娘，谷歌大把干粮还有github pages自带的介绍<br>第二步，找一个静态博客生成器，github推荐了jekell，我还看了hexo，听说这个东东是一个大学生做出来的，想起别人是上大学，我是在玩大学，唉唉。最后还是选择了hexo，原因是我的电脑已经装了nodejs，我也是贪图方便，听说它生成博客比较快，这就不晓得了。然后你懂的，又是度娘，谷歌<br>昨天就把本地预览弄出来了，上传到github上也可以浏览，手机上也可以，还是有一点高兴，哈哈哈<br><img src="http://odnnpsfuj.bkt.clouddn.com/hexo.png" alt="Hexo"><br>今天继续折腾<br>第三步，给自己的博客换一个主题NextT，各种改配置文件，添加多说评论和分享功能，添加leancloud浏览次数统计功能，也有了分类，归档，标签<br>今天动力不太足了，有点累，也许是我过于追求细节完美了，只能说累并快乐着<br><img src="http://odnnpsfuj.bkt.clouddn.com/NextT.png" alt="NextT"></p>
-]]></content>
+    <content type="html"><![CDATA[<h3 id="我终于把你搭建好了"><a href="#我终于把你搭建好了" class="headerlink" title="我终于把你搭建好了"></a>我终于把你搭建好了</h3><h4 id="begin"><a href="#begin" class="headerlink" title="begin"></a>begin</h4><p>从昨天开始，我不知道是不是头脑发热，一时兴起，心血来潮，（成语够多了吧），想着在github上搭建博客。光说不练假把式，我不但是一时兴起，还是一头雾水，我找度娘，找谷歌。<br>第一步，在github上创建userName.github.io这个仓库，然后度娘，谷歌大把干粮还有github pages自带的介绍<br>第二步，找一个静态博客生成器，github推荐了jekell，我还看了hexo，听说这个东东是一个大学生做出来的，想起别人是上大学，我是在玩大学，唉唉。最后还是选择了hexo，原因是我的电脑已经装了nodejs，我也是贪图方便，听说它生成博客比较快，这就不晓得了。然后你懂的，又是度娘，谷歌<br>昨天就把本地预览弄出来了，上传到github上也可以浏览，手机上也可以，还是有一点高兴，哈哈哈<br><img src="http://odnnpsfuj.bkt.clouddn.com/hexo.png" alt="Hexo"><br>今天继续折腾<br>第三步，给自己的博客换一个主题NextT，各种改配置文件，添加多说评论和分享功能，添加leancloud浏览次数统计功能，也有了分类，归档，标签<br>今天动力不太足了，有点累，也许是我过于追求细节完美了，只能说累并快乐着<br><img src="http://odnnpsfuj.bkt.clouddn.com/NextT.png" alt="NextT"><br>最后添加图片的时候发现图片挂了，于是找原因是路径不对，而且在首页和点击进具体页的时候，路径是无法统一的。解决方法就是用七牛云图片外链，又是那些常规的步骤，注册，验证，还有实名认证，上传图片，获取外链，终于正常显示了。</p>
+<h4 id="end"><a href="#end" class="headerlink" title="end"></a>end</h4>]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;我终于把你弄出来了&quot;&gt;&lt;a href=&quot;#我终于把你弄出来了&quot; class=&quot;headerlink&quot; title=&quot;我终于把你弄出来了&quot;&gt;&lt;/a&gt;我终于把你弄出来了&lt;/h3&gt;&lt;p&gt;从昨天开始，我不知道是不是头脑发热，一时兴起，心血来潮，（成语够多了吧），想着在gi
+      &lt;h3 id=&quot;我终于把你搭建好了&quot;&gt;&lt;a href=&quot;#我终于把你搭建好了&quot; class=&quot;headerlink&quot; title=&quot;我终于把你搭建好了&quot;&gt;&lt;/a&gt;我终于把你搭建好了&lt;/h3&gt;&lt;h4 id=&quot;begin&quot;&gt;&lt;a href=&quot;#begin&quot; class=&quot;header
     
     </summary>
     
